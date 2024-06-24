@@ -14,4 +14,7 @@ The aim of this project is to reveal the current patterns in the data by showing
 * The graph is real-time, meaning different values would be presented based on the time selected in the graph in Part 2.
 
 # Conclusion
-* More insights could be drawn with more different visualisations. 
+* More insights could be drawn with more different visualisations.
+
+## Dashboard Visualisation ## 
+https://public.tableau.com/app/profile/hoang.nguyen1341/viz/LondonBikes_Final/Dashboard1
